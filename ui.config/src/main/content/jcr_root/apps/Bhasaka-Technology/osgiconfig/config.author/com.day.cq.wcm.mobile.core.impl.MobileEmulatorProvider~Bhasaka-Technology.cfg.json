@@ -1,0 +1,6 @@
+{
+  "mobile.resourceTypes": [
+    "Bhasaka-Technology/components/page"
+  ],
+  "README": "Indicate which page resource types should display the mobile emulators."
+}
